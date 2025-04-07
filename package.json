@@ -1,0 +1,24 @@
+{
+  "name": "filtered-map",
+  "version": "1.0.0",
+  "description": "to perform map method with boolean filter",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "babel src -d dist",
+    "prepublishOnly": "npm run build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nikhilmatlab/filtered-map.git"
+  },
+  "keywords": [
+    "JS"
+  ],
+  "author": "Nikhilmatlab",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Nikhilmatlab/filtered-map/issues"
+  },
+  "homepage": "https://github.com/Nikhilmatlab/filtered-map#readme"
+}
