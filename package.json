@@ -1,6 +1,6 @@
 {
   "name": "filtered-map",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "to perform map method with boolean filter",
   "main": "index.js",
   "scripts": {
